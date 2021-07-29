@@ -121,6 +121,7 @@ p{
     transform: translateY(-100%);
 }
 .header .logo{
+    width: 75%;
     min-height: 34px;
     display: flex;
     align-items: center;
@@ -545,7 +546,7 @@ p{
         width: 100%;
     }
     .team-item{
-        width: 50%;
+        width: 100%;
     }
     .team-item:not(:last-child){
         margin-bottom: 75px;
